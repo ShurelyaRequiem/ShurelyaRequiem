@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yingtao Hana
 - 👀 I’m interested in writing, coding and playing Video Games!
 - 🌱 I’m currently learning C++!
-- 💞️ I’m looking to collaborate on nothing atthe moment.
+- 💞️ I’m looking to collaborate on my newest project, The Enigma Project.
 - 📫 How to reach me: Rëminiscence#6969 is my discord username.
 
 <!---
